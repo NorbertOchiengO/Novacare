@@ -1,0 +1,11 @@
+# Ignore dependencies
+node_modules/
+
+# Ignore environment variables
+.env
+.env.local
+
+# Ignore build folders
+dist/
+.next/
+build/
